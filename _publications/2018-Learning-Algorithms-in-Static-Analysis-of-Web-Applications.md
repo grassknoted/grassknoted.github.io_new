@@ -2,13 +2,21 @@
 title: "Learning Algorithms in Static Analysis of Web Applications "
 collection: publications
 permalink: /publication/learning-algorithms-in-static-analysis-of-web-applications
-excerpt: 'Write something interesting here.'
-date: 2018-10-10
-venue: 'arXiv'
+excerpt: '<em>Accepted for presentation at Springer ICMISC 2020</em>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<br>
+<br>
+<a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.07465"><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/SAST-using-ML"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://owasp.org/www-project-benchmark/"><button type="button" class="btn btn-warning"><i class="fa-solid fa-database"></i> Data</button></a>'
+date: 2022-09-08
 authors: '<strong>Akash Nagaraj</strong>, Bishesh Sinha, Mukund Sood, Yash Mathur, Sanchika Gupta, Dinkar Sitaram'
 paperurl: 'http://localhost:4000/files/Learning-Algorithms-in-Static-Analysis-of-Web-Applications.pdf'
 # citation: 'A. Nagaraj, M. Sood and G. Srinivasa, "Real-Time Automated Answer Scoring," 2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT), 2018, pp. 231-232, doi: 10.1109/ICALT.2018.00122.'
 ---
+
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />

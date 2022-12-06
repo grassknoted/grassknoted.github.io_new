@@ -2,10 +2,17 @@
 title: "Cross-domain Variational Capsules for Information Extraction"
 collection: publications
 permalink: /publication/cross-domain-variational-capsules-for-information-extraction
-excerpt: 'Write something interesting here.'
-date: 2018-10-10
+excerpt: '<em>Published at Springer ICICSE 2020</em>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<br>
+<br>
+<a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.09053"><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/CDAE4InfoExtraction"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://www.kaggle.com/datasets/grassknoted/multidomain-image-characteristics-dataset"><button type="button" class="btn btn-warning"><i class="fa-solid fa-database"></i> Data</button></a>'
+date: 2022-09-11
 authors: '<strong>Akash Nagaraj</strong>, Akhil K, Akshay Venkatesh, Srikanth HR'
-venue: '2020 IEEE 18th International Conference on Advanced Learning Technologies (ICALT)'
 paperurl: 'http://localhost:4000/files/Cross-domain-Variational-Capsules-for-Information-Extraction.pdf'
 # citation: 'A. Nagaraj, M. Sood and G. Srinivasa, "Real-Time Automated Answer Scoring," 2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT), 2018, pp. 231-232, doi: 10.1109/ICALT.2018.00122.'
 ---

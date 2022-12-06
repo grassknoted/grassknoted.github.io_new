@@ -2,10 +2,22 @@
 title: "Real-time Action Recognition for Fine-Grained Actions and The Hand Wash Dataset"
 collection: publications
 permalink: /publication/real-time-action-recognition-for-fine-grained-actions-and-the-hand-wash-dataset
-excerpt: 'Write something interesting here.'
-date: 2020-10-10
+excerpt: '<em>Patent Pending. arXiv:2210.07400</em>
+<!-- Boostrap 5.2.2 -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script> -->
+<!-- Boostrap 5.2.2 -->
+
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!-- Font Awesome -->
+<a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.07400"><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Modified-Two-Stream-Fusion-for-Real-time-ActionRecognition"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://www.kaggle.com/datasets/realtimear/hand-wash-dataset/data"><button type="button" class="btn btn-warning"><i class="fa-solid fa-database"></i> Data</button></a>'
+date: 2022-09-10
 authors: '<strong>Akash Nagaraj</strong>, Mukund Sood, Chetna Sureka, Gowri Srinivasa'
-venue: 'arXiv'
 paperurl: 'http://localhost:4000/files/Real-time-Action-Recognition-for-Fine-Grained-Actions-and-The-Hand-Wash-Dataset.pdf'
 # citation: 'A. Nagaraj, M. Sood and G. Srinivasa, "Real-Time Automated Answer Scoring," 2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT), 2018, pp. 231-232, doi: 10.1109/ICALT.2018.00122.'
 ---
@@ -39,11 +51,9 @@ paperurl: 'http://localhost:4000/files/Real-time-Action-Recognition-for-Fine-Gra
 <div>
 <a style="text-decoration: none;" target="_blank" href="http://localhost:4000/files/Real-time-Action-Recognition-for-Fine-Grained-Actions-and-The-Hand-Wash-Dataset.pdf"><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> PDF</button></a>
 
-<a style="text-decoration: none;" target="_blank" href="http://localhost:4000/files/Real-time-Action-Recognition-for-Fine-Grained-Actions-and-The-Hand-Wash-Dataset.pdf"><button type="button" class="btn btn-outline-primary"><i class="fa-solid fa-file-pdf"></i> PDF</button></a>
-
 <a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Modified-Two-Stream-Fusion-for-Real-time-ActionRecognition"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
 
 <a style="text-decoration: none;" target="_blank" href="https://www.kaggle.com/datasets/realtimear/hand-wash-dataset/data"><button type="button" class="btn btn-warning"><i class="fa-solid fa-database"></i> Data</button></a>
 </div>
 <br><br>
-<strong>Citation:</strong> A. Nagaraj, M. Sood, C. Sureka and G. Srinivasa, "Real-time Action Recognition for Fine-Grained Actions and The Hand Wash Dataset," arXiv preprint arXiv:1711.08200, 2022.
+<strong>Citation:</strong> <em>A. Nagaraj, M. Sood, C. Sureka and G. Srinivasa, "Real-time Action Recognition for Fine-Grained Actions and The Hand Wash Dataset," arXiv preprint arXiv:1711.08200, 2022.</em>

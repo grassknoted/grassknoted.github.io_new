@@ -2,9 +2,14 @@
 title: "Association Rule-based Analysis of Filarial Lymphoedema"
 collection: publications
 permalink: /publication/digital-image-forensics-using-deep-learning
-excerpt: 'Write something interesting here.'
-date: 2018-10-10
-venue: '2018 8th National Colloquium of Evidence-based Integrative Medicine'
+excerpt: '<em>Presented at The 8th National Colloquim on Evidence-based Integrative Medicine.</em>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<br>
+<br>
+<a style="text-decoration: none;" target="_blank" href="https://www.researchgate.net/publication/345346069_Association_Rule-based_Analysis_of_Filarial_lymphoedema"><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> ResearchGate</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Digital-Image-Forensics"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>'
+date: 2022-09-10
 authors: '<strong>Akash Nagaraj</strong>, Mukund Sood, Bishesh Sinha, Ashok Raman, Dinkar Sitaram'
 paperurl: 'http://localhost:4000/files/Association-Rule-based-Analysis-of-Filarial_Lymphoedema.pdf'
 # citation: 'A. Nagaraj, M. Sood and G. Srinivasa, "Real-Time Automated Answer Scoring," 2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT), 2018, pp. 231-232, doi: 10.1109/ICALT.2018.00122.'

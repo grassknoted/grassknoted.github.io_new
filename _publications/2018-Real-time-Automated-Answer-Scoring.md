@@ -2,10 +2,17 @@
 title: "Real-Time Automated Answer Scoring"
 collection: publications
 permalink: /publication/real-time-automated-answer-scoring
-excerpt: 'Write something interesting here.'
-date: 2018-10-10
+excerpt: '<em>Published at IEEE ICALT 2018</em>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<br>
+<br>
+<a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.09004" ><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Realtime-Answer-Evaluation"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
+
+<a style="text-decoration: none;" target="_blank" href="https://www.kaggle.com/competitions/asap-sas/data"><button type="button" class="btn btn-warning"><i class="fa-solid fa-database"></i> Data</button></a>'
+date: 2022-10-10
 authors: '<strong>Akash Nagaraj</strong>, Mukund Sood, Gowri Srinivasa'
-venue: '2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT)'
 paperurl: 'http://localhost:4000/files/Real-time-Automated-Answer-Scoring.pdf'
 # citation: 'A. Nagaraj, M. Sood and G. Srinivasa, "Real-Time Automated Answer Scoring," 2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT), 2018, pp. 231-232, doi: 10.1109/ICALT.2018.00122.'
 ---
