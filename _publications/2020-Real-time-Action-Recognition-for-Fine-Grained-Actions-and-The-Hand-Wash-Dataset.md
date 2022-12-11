@@ -13,7 +13,7 @@ excerpt: '<em>Patent Pending. arXiv:2210.07400</em>
 <!-- Font Awesome -->
 <a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.07400"><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>
 
-<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Modified-Two-Stream-Fusion-for-Real-time-ActionRecognition"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
+<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Modified-Two-Stream-Fusion-for-Real-time-ActionRecognition"><button  style="background-color: #7ce38b;" type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
 
 <a style="text-decoration: none;" target="_blank" href="https://www.kaggle.com/datasets/realtimear/hand-wash-dataset/data"><button type="button" class="btn btn-warning"><i class="fa-solid fa-database"></i> Data</button></a>'
 date: 2022-09-10

@@ -7,17 +7,30 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
+    	<img class="author__avatar" alt="{{ author.name }}" onmouseover="hover(this);" onload="set_image(this);" onmouseout="unhover(this);" style="opacity:1; transition:opacity 0.5s linear;" >
   </div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
+  <script style="display:none;"> 
+
+  const image = document.querySelector("img");
+  if (Math.random() > 0.5) {
+    main_picture = '/images/DP.jpeg'
+    hover_picture = '/images/profile.png'
+  }
+  else {
+    main_picture = '/images/profile.png'
+    hover_picture = '/images/DP.jpeg'
+  }
+  console.log("Main Image", image)
+  image.setAttribute('src', main_picture);
+
+  function hover(element) {element.setAttribute('src', hover_picture); } 
+  function unhover(element) { element.setAttribute('src', main_picture); } 
+  </script>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
@@ -114,6 +127,9 @@
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
+      {% endif %}
+      {% if author.cv %}
+        <li><a target="_blank" href="{{ author.cv }}">&nbsp;<i class="fa-solid fa-file-pdf" aria-hidden="true"></i>&nbsp;&nbsp;CV</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>

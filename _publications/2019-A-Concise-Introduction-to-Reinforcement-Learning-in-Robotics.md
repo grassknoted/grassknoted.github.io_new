@@ -6,7 +6,7 @@ excerpt: '<em>Accepted for presentation at Springer ICMISC 2020</em>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <br>
 <br>
-<a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.07397"><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>'
+<a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.07397"><button style="background-color: #bd1f36;" type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>'
 date: 2022-09-08
 authors: '<strong>Akash Nagaraj</strong>, Mukund Sood, Bhagya M Patil'
 paperurl: 'http://localhost:4000/files/A-Concise-Introduction-to-Reinforcement-Learning-in-Robotics.pdf'

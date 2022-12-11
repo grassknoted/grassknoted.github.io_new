@@ -6,9 +6,9 @@ excerpt: '<em>Presented at The 8th National Colloquim on Evidence-based Integrat
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <br>
 <br>
-<a style="text-decoration: none;" target="_blank" href="https://www.researchgate.net/publication/345346069_Association_Rule-based_Analysis_of_Filarial_lymphoedema"><button type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> ResearchGate</button></a>
+<a style="text-decoration: none;" target="_blank" href="https://www.researchgate.net/publication/345346069_Association_Rule-based_Analysis_of_Filarial_lymphoedema"><button type="button" class="btn btn-primary" style="background-color: #bd1f36;"><i class="fa-solid fa-file-pdf"></i> ResearchGate</button></a>
 
-<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Digital-Image-Forensics"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>'
+<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Digital-Image-Forensics"><button  style="background-color: #7ce38b;" type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>'
 date: 2022-09-10
 authors: '<strong>Akash Nagaraj</strong>, Mukund Sood, Bishesh Sinha, Ashok Raman, Dinkar Sitaram'
 paperurl: 'http://localhost:4000/files/Association-Rule-based-Analysis-of-Filarial_Lymphoedema.pdf'

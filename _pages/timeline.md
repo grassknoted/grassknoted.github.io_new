@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV Overview" 
-permalink: /cv/
+title: "Timeline" 
+permalink: /timeline/
 author_profile: false
 redirect_from:
   - /resume
 ---
 
-NOTE: This is an  overview of my CV, <a href="http://localhost:4000/files/Akash_Resume.pdf" target="_blank">here is the full CV as a PDF</a>.
+<strong><u><mark style="background-color: yellow;">NOTE:</mark></u></strong> This is an  overview of my CV, <a href="http://localhost:4000/files/Akash_Resume.pdf" target="_blank">here is the full CV as a PDF</a>.
 
 Education
 ======
