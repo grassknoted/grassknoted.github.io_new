@@ -6534,7 +6534,6 @@ I also work on projects that are impact-oriented and solve real-world problems. 
         </tbody>
     </table>
 </div>
-<!-- <a style="text-decoration: none;" target="_blank" href="http://localhost:4000/files/Akash_Resume.pdf"><button style="background-color: #0395DE;" type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> Curriculum Vitae</button></a> -->
 <h4>Previously</h4>
 Before my curent role, I worked on algorithmic trading, high and low touch flows, and a new equities (stocks, bonds, ETFs) trading platform at Goldman Sachs for the better part of two years. I completed my undergraduate education in Computer Science. 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />

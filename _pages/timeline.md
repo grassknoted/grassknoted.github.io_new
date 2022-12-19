@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<strong><u><mark style="background-color: yellow;">NOTE:</mark></u></strong> This is an  overview of my CV, <a href="http://localhost:4000/files/Akash_Resume.pdf" target="_blank">here is the full CV as a PDF</a>.
+<strong><u><mark style="background-color: yellow;">NOTE:</mark></u></strong> This is an  overview of my CV, <a href="https://www.akashnagaraj.me/files/Akash_Resume.pdf" target="_blank">here is the full CV as a PDF</a>.
 
 Education
 ======

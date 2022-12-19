@@ -9,7 +9,7 @@ excerpt: '<em>Accepted for presentation at Springer ICMISC 2020</em>
 <a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.07397"><button style="background-color: #bd1f36;" type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>'
 date: 2022-09-08
 authors: '<strong>Akash Nagaraj</strong>, Mukund Sood, Bhagya M Patil'
-paperurl: 'http://localhost:4000/files/A-Concise-Introduction-to-Reinforcement-Learning-in-Robotics.pdf'
+paperurl: 'https://www.akashnagaraj.me/files/A-Concise-Introduction-to-Reinforcement-Learning-in-Robotics.pdf'
 # citation: 'A. Nagaraj, M. Sood and G. Srinivasa, "Real-Time Automated Answer Scoring," 2018 IEEE 18th International Conference on Advanced Learning Technologies (ICALT), 2018, pp. 231-232, doi: 10.1109/ICALT.2018.00122.'
 ---
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -21,7 +21,7 @@ paperurl: 'http://localhost:4000/files/A-Concise-Introduction-to-Reinforcement-L
 This paper aims to serve as a reference guide for researchers in reinforcement learning applied to the field of robotics. The literature survey is at a fairly introductory level, aimed at aspiring researchers. Appropriately, we have covered the most essential concepts required for research in the field of reinforcement learning, with robotics in mind. Through a thorough analysis of this problem, we are able to manifest how reinforcement learning could be applied profitably, and also focus on open-ended questions, as well as the potential for future research.</div>
 <br>
 <div>
-<a style="text-decoration: none;" target="_blank" href="http://localhost:4000/files/A-Concise-Introduction-to-Reinforcement-Learning-in-Robotics.pdf"><button type="button" class="btn btn-primary" style="background-color: #bd1f36;" ><i class="fa-solid fa-file-pdf"></i> Paper</button></a>
+<a style="text-decoration: none;" target="_blank" href="https://www.akashnagaraj.me/files/A-Concise-Introduction-to-Reinforcement-Learning-in-Robotics.pdf"><button type="button" class="btn btn-primary" style="background-color: #bd1f36;" ><i class="fa-solid fa-file-pdf"></i> Paper</button></a>
 
 <!-- <a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Realtime-Answer-Evaluation"><button type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
 
