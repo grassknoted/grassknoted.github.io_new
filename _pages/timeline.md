@@ -68,6 +68,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* Education Mentor & Tech Writer, <strong>GirlScript Foundation</strong>, <small>March 2020 - November 2020</small>
+* Data Structures and Algorithms Mentor, <strong>CodeChef</strong>, <small>April 2020 - July 2020</small>
+* Education Support Volunteer, <strong>Make A Difference</strong>, <small>July 2017 - May 2018</small>
+

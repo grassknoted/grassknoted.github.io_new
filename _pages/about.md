@@ -6499,7 +6499,7 @@ questions like:
 </ul>
 </div>
 
-I aim to reverse-engineer human cognition and help create more effective artificial intelligence systems—a cross-fertilization between Cognitive Science and AI, spurring deeper insights in both fields. At the Serre Lab, I work on a range of projects involving machine vision, behavioral analysis, NLP, 
+I aim to reverse-engineer human cognition and help create more effective artificial intelligence systems—a cross-fertilization between Cognitive Science and AI, spurring deeper insights in both fields. At the Serre Lab, I work on a range of projects involving machine vision, behavioral analysis, and NLP.
 
 I also work on projects that are impact-oriented and solve real-world problems. My interdisciplinary interests blend concepts from Artificial Intelligence, Computer Vision, Cognitive Science, Physics, and Biology. I’m particularly interested in applying my research to solve problems in global healthcare.
 
@@ -6508,28 +6508,28 @@ I also work on projects that are impact-oriented and solve real-world problems. 
 <table align="center" cellspacing="0" cellpadding="0" style="border: none;">
         <tbody style="border: none;">
         <tr>
-            <td width="22%" align="center" style="border: none;">
+            <td width="25%" align="center" style="border: none;">
                 <a href="http://www.cisco.com/" target="_blank">
                 <img style="width:80px" src="/images/cisco.png"></a>&nbsp; &nbsp;
             </td>
-            <td width="22%" align="center" style="border: none;">
+            <td width="25%" align="center" style="border: none;">
                 <a href="https://www.gs.com/" target="_blank">
                 <img style="width:80px" src="/images/goldman.png"></a>&nbsp; &nbsp;
             </td>
-            <td width="22%" align="center" style="border: none;">
+            <td width="25%" align="center" style="border: none;">
                 <a href="https://brown.edu/" target="_blank">
                 <img style="width:100px" src="/images/brown.png"></a>&nbsp; &nbsp;
             </td>
-            <td width="24%" dsalign="center" style="border: none;">
+            <td width="25%" align="center" style="border: none;">
                 <a href="https://mit.edu" target="_blank">
                 <img style="width:100px" src="/images/mit.png"></a>&nbsp; &nbsp;
             </td>
         </tr>
         <tr>
-            <td width="22%" align="center" style="border: none;"><font size="2">Cisco Systems<br>Jan 2019 - Jan 2020</font></td>
-            <td width="22%" align="center" style="border: none;"><font size="2">Goldman Sachs<br>Jan 2020 - Aug 2021</font></td>
-            <td width="22%" align="center" style="border: none;"><font size="2">Brown University <br>Aug 2021 - Present</font></td>
-            <td width="22%" align="center" style="border: none;"><font size="2">MIT<br>Sept 2022-present</font></td>
+            <td width="25%" align="center" style="border: none;"><font size="2">Cisco Systems<br>Jan 2019 - Jan 2020</font></td>
+            <td width="25%" align="center" style="border: none;"><font size="2">Goldman Sachs<br>Jan 2020 - Aug 2021</font></td>
+            <td width="25%" align="center" style="border: none;"><font size="2">Brown University<br>Aug 2021 - Present</font></td>
+            <td width="25%" align="center" style="border: none;"><font size="2">MIT2<br>Sept 2022-present</font></td>
         </tr>
         </tbody>
     </table>

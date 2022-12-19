@@ -8,9 +8,9 @@ excerpt: '<em>Published in eForensics (May 2020)</em>
 <br>
 <a style="text-decoration: none;" target="_blank" href="https://arxiv.org/abs/2210.09052"><button style="background-color: #bd1f36;" type="button" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> arXiv</button></a>
 
-<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Digital-Image-Forensics"><button  style="background-color: #7ce38b;" type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
+<a style="text-decoration: none;" target="_blank" href="https://github.com/grassknoted/Digital-Image-Forensics"><button  style="background-color: #6cc644;" type="button" class="btn btn-info"><i class="fa-brands fa-github"></i> GitHub</button></a>
 
-<a style="text-decoration: none;" target="_blank" href="https://www.kaggle.com/competitions/sp-society-camera-model-identification/data"><button type="button" class="btn btn-warning"><i class="fa-solid fa-database"></i> Data</button></a>'
+<a style="text-decoration: none;" target="_blank" href="https://www.kaggle.com/competitions/sp-society-camera-model-identification/data"><button type="button" style="background-color: #4078c0;" class="btn btn-warning"><i class="fa-solid fa-database"></i> Data</button></a>'
 date: 2018-10-10
 authors: '<strong>Akash Nagaraj</strong>, Mukund Sood, Vivek Kapoor, Yash Mathur, Bishesh Sinha'
 paperurl: 'http://localhost:4000/files/Digital-Image-Forensics-using-Deep-Learning.pdf'
